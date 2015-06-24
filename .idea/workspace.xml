@@ -34,14 +34,81 @@
       <file leaf-file-name="login.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/login.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-234.79411">
+            <state vertical-scroll-proportion="0.0">
               <caret line="320" column="58" selection-start-line="320" selection-start-column="58" selection-end-line="320" selection-end-column="58" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#span#0;n#label#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#label#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#label#8;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1435117516426" expanded="true" signature="11335:11447" placeholder="..." />
+                <marker date="1435117516426" expanded="true" signature="12097:12266" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12290:18983" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12359:12551" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12622:12673" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12718:13985" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+                <marker date="1435117516426" expanded="true" signature="12837:12913" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12853:12906" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="12931:13016" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="12947:13009" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="13047:13130" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13159:13267" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13316:13367" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13405:13932" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13420:13923" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="13549:13601" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13642:13915" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13748:13810" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13845:13906" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="13971:13979" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14047:14184" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14128:14178" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14249:14297" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14339:16018" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+                <marker date="1435117516426" expanded="true" signature="14458:14613" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14478:14510" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="14529:14606" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="14631:14817" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14651:14687" placeholder="{&quot;required&quot;: &quot;请填写用户名&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="14706:14810" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="14848:14931" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="14960:15068" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15117:15204" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15242:15965" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15257:15956" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="15375:15477" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15518:15948" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15624:15709" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15744:15799" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15834:15883" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="15889:15939" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="16004:16012" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="16058:16089" placeholder="{&quot;container&quot;: 'body'...}" />
+                <marker date="1435117516426" expanded="true" signature="16123:16180" placeholder="{&quot;format&quot;: 'yyyy-mm-dd'...}" />
+                <marker date="1435117516426" expanded="true" signature="16248:16299" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="16344:18976" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+                <marker date="1435117516426" expanded="true" signature="16463:17083" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="16482:16537" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="16551:16583" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="16599:16675" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="16691:16747" placeholder="{&quot;required&quot;: false...}" />
+                <marker date="1435117516426" expanded="true" signature="16766:16799" placeholder="{&quot;required&quot;: false...}" />
+                <marker date="1435117516426" expanded="true" signature="16818:16895" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="16920:17027" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="17043:17076" placeholder="{&quot;required&quot;: true...}" />
+                <marker date="1435117516426" expanded="true" signature="17101:17737" placeholder="{&quot;sex&quot;: &quot;请选择性别&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17120:17190" placeholder="{&quot;required&quot;: &quot;请填写姓名&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17227:17324" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17340:17414" placeholder="{&quot;required&quot;: &quot;请填写联系电话&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17433:17537" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17562:17703" placeholder="{&quot;required&quot;: &quot;请输入确认密码&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="17768:17851" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="17880:17988" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18037:18088" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18126:18923" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18141:18914" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+                <marker date="1435117516426" expanded="true" signature="18262:18516" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18557:18906" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18663:18748" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18783:18838" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18844:18897" placeholder="{...}" />
+                <marker date="1435117516426" expanded="true" signature="18962:18970" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,8 +117,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25659823">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.6534366">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -104,6 +171,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,7 +221,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,6 +228,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -168,7 +238,42 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.bin\www">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -190,26 +295,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298872" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298872" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -219,11 +332,107 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/assets/js/ace/ace.js">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="320" column="58" selection-start-line="320" selection-start-column="58" selection-end-line="320" selection-end-column="58" />
+          <folding>
+            <marker date="1435117516426" expanded="true" signature="11335:11447" placeholder="..." />
+            <marker date="1435117516426" expanded="true" signature="12097:12266" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12290:18983" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12359:12551" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12622:12673" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12718:13985" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="12837:12913" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12853:12906" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="12931:13016" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12947:13009" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="13047:13130" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13159:13267" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13316:13367" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13405:13932" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13420:13923" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="13549:13601" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13642:13915" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13748:13810" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13845:13906" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13971:13979" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14047:14184" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14128:14178" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14249:14297" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14339:16018" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="14458:14613" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14478:14510" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="14529:14606" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="14631:14817" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14651:14687" placeholder="{&quot;required&quot;: &quot;请填写用户名&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="14706:14810" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="14848:14931" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14960:15068" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15117:15204" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15242:15965" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15257:15956" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="15375:15477" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15518:15948" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15624:15709" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15744:15799" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15834:15883" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15889:15939" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16004:16012" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16058:16089" placeholder="{&quot;container&quot;: 'body'...}" />
+            <marker date="1435117516426" expanded="true" signature="16123:16180" placeholder="{&quot;format&quot;: 'yyyy-mm-dd'...}" />
+            <marker date="1435117516426" expanded="true" signature="16248:16299" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16344:18976" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="16463:17083" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16482:16537" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16551:16583" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16599:16675" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16691:16747" placeholder="{&quot;required&quot;: false...}" />
+            <marker date="1435117516426" expanded="true" signature="16766:16799" placeholder="{&quot;required&quot;: false...}" />
+            <marker date="1435117516426" expanded="true" signature="16818:16895" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16920:17027" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="17043:17076" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="17101:17737" placeholder="{&quot;sex&quot;: &quot;请选择性别&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17120:17190" placeholder="{&quot;required&quot;: &quot;请填写姓名&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17227:17324" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17340:17414" placeholder="{&quot;required&quot;: &quot;请填写联系电话&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17433:17537" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17562:17703" placeholder="{&quot;required&quot;: &quot;请输入确认密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17768:17851" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="17880:17988" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18037:18088" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18126:18923" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18141:18914" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="18262:18516" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18557:18906" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18663:18748" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18783:18838" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18844:18897" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18962:18970" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/ace/ace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -237,22 +446,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/login.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-234.79411">
+        <state vertical-scroll-proportion="0.0">
           <caret line="320" column="58" selection-start-line="320" selection-start-column="58" selection-end-line="320" selection-end-column="58" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#label#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#label#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#label#8;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1435117516426" expanded="true" signature="11335:11447" placeholder="..." />
+            <marker date="1435117516426" expanded="true" signature="12097:12266" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12290:18983" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12359:12551" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12622:12673" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12718:13985" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="12837:12913" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12853:12906" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="12931:13016" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="12947:13009" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="13047:13130" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13159:13267" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13316:13367" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13405:13932" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13420:13923" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="13549:13601" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13642:13915" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13748:13810" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13845:13906" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="13971:13979" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14047:14184" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14128:14178" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14249:14297" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14339:16018" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="14458:14613" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14478:14510" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="14529:14606" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="14631:14817" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14651:14687" placeholder="{&quot;required&quot;: &quot;请填写用户名&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="14706:14810" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="14848:14931" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="14960:15068" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15117:15204" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15242:15965" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15257:15956" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="15375:15477" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15518:15948" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15624:15709" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15744:15799" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15834:15883" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="15889:15939" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16004:16012" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16058:16089" placeholder="{&quot;container&quot;: 'body'...}" />
+            <marker date="1435117516426" expanded="true" signature="16123:16180" placeholder="{&quot;format&quot;: 'yyyy-mm-dd'...}" />
+            <marker date="1435117516426" expanded="true" signature="16248:16299" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16344:18976" placeholder="{&quot;errorElement&quot;: 'div'...}" />
+            <marker date="1435117516426" expanded="true" signature="16463:17083" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="16482:16537" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16551:16583" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16599:16675" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16691:16747" placeholder="{&quot;required&quot;: false...}" />
+            <marker date="1435117516426" expanded="true" signature="16766:16799" placeholder="{&quot;required&quot;: false...}" />
+            <marker date="1435117516426" expanded="true" signature="16818:16895" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="16920:17027" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="17043:17076" placeholder="{&quot;required&quot;: true...}" />
+            <marker date="1435117516426" expanded="true" signature="17101:17737" placeholder="{&quot;sex&quot;: &quot;请选择性别&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17120:17190" placeholder="{&quot;required&quot;: &quot;请填写姓名&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17227:17324" placeholder="{&quot;required&quot;: &quot;请填写邮箱&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17340:17414" placeholder="{&quot;required&quot;: &quot;请填写联系电话&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17433:17537" placeholder="{&quot;required&quot;: &quot;请输入密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17562:17703" placeholder="{&quot;required&quot;: &quot;请输入确认密码&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="17768:17851" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="17880:17988" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18037:18088" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18126:18923" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18141:18914" placeholder="{&quot;dataType&quot;: &quot;json&quot;...}" />
+            <marker date="1435117516426" expanded="true" signature="18262:18516" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18557:18906" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18663:18748" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18783:18838" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18844:18897" placeholder="{...}" />
+            <marker date="1435117516426" expanded="true" signature="18962:18970" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25659823">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.6534366">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding />
         </state>
       </provider>
